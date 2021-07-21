@@ -1,7 +1,7 @@
 import React from "react"
 
 import { Layout } from "../components/Layout"
-import { Seo } from "../components/Seo"
+import { Seo } from "../components/seo"
 import { Container } from "../components/Container"
 
 export default function () {
