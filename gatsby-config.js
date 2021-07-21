@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://axur.com/`
+    siteUrl: `https://triploaseminovos.com.br`
   },
   plugins: [
     `gatsby-plugin-styled-components`,
