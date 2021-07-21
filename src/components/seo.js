@@ -31,14 +31,7 @@ export function Seo({ title, description }) {
             <meta property="og:type" content="website" />
             <meta property="og:title" content={titlePage} />
             <meta property="og:description" content={description} />
-            {/* <meta property="og:image" content="" /> */}
-            {/* <meta property="og:image" itemprop="image" content="" /> */}
-            <meta property="og:image:secure_url" itemprop="image" content="" />
-            {/* <link itemprop="thumbnailUrl" href="" /> */}
-            {/* <meta property="og:image:alt" content={titlePage} /> */}
-            <meta property="og:image:type" content="image/jpeg" />
-            <meta property="og:image:width" content="800" />
-            <meta property="og:image:height" content="600" />
+
         </Helmet>
     )
 }
