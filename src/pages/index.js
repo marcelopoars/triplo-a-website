@@ -10,7 +10,7 @@ import { CardDeck } from "../components/CardDeck"
 export default function () {
     return (
         <Layout>
-            <Seo title="Home" />
+            <Seo description="Pensou em comprar ou trocar de carro? Venha para a Triplo A - Seminovos!" />
 
             <HeroHome />
 

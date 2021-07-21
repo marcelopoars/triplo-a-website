@@ -7,7 +7,7 @@ import { Container } from "../components/Container"
 export default function () {
     return (
         <Layout>
-            <Seo title="404" />
+            <Seo title="404" desvription="Página não encontrada" />
 
             <Container>
                 <div style={{width: '100%', padding: '30vh 48px', textAlign: 'center'}}>
