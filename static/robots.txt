@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://triploaseminovos.com.br/sitemap.xml
