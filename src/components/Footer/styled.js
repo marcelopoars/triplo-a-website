@@ -26,10 +26,10 @@ export const FooterWrapper = styled.footer`
 
     > p {
         margin-top: 24px;
-        opacity: .6;
 
         a {
-            color: var(--yellow-100);
+            color: var(--dark-100);
+            font-weight: 700;
         }
     }
 

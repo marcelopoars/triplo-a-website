@@ -9,14 +9,16 @@ import * as S from "./styled"
 export function Menu() {
     return (
         <S.MenuWrapper>
-            <li>
-                <Link
-                    activeStyle={{ color: "var(--primaryColor)" }}
-                    to="/sobre-nos"
-                >
-                    Sobre nós
-                </Link>
-            </li>
+            <ul>
+                <li>
+                    <Link
+                        activeStyle={{ color: "var(--primaryColor)" }}
+                        to="/sobre-nos/"
+                    >
+                        Sobre nós
+                    </Link>
+                </li>
+            </ul>
             <Social />
         </S.MenuWrapper>
     )

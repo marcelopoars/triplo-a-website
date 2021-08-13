@@ -69,7 +69,7 @@ export const CarBody = styled.div`
 
     span {
         display: inline-block;
-        color: var(--dark-100);
+        color: var(--dark-500);
         font-size: 14px;
         line-height: 1.45;
     }
